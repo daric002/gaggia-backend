@@ -1,0 +1,5 @@
+Flask==1.1.2
+tsic==2.0.1
+redis==3.5.3
+pigpio==1.46
+simple_pid==1.0.1
