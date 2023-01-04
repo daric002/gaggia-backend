@@ -3,3 +3,5 @@ tsic==2.0.1
 redis==3.5.3
 pigpio==1.46
 simple_pid==1.0.1
+flake8==5.0.4
+Mock.GPIO==0.1.8
